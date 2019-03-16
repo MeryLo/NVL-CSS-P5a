@@ -1,0 +1,8 @@
+
+.container img {
+    width: 200px;
+    height: 100px; 
+    padding: 32px;
+    margin: 10px;
+    border: 16px solid red;
+}
